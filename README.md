@@ -21,7 +21,7 @@ Practical Working Situation
 - 雅思听力  https://www.bilibili.com/video/BV1KJ411r7Tn
 
 ## Magazines
-- [Introduction](Magazine/README.MD)
+- [Introduction](Magazine)
 
 ## Songs
 - Shape of you
