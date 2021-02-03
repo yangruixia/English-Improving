@@ -20,6 +20,9 @@ Practical Working Situation
 ## Listening
 - 雅思听力  https://www.bilibili.com/video/BV1KJ411r7Tn
 
+## English Magazines
+- Introduction
+
 ## English Songs
 - Shape of you
 
