@@ -41,4 +41,9 @@ Practical Working Situation
 | :---:| :---: |
 | Lion King Ⅰ | Vocab & Script |
 |Lion King Ⅲ | Vocab & Script |
-| 
+| Rio Ⅰ&Ⅱ|
+| Hotel Transylvania Ⅰ&Ⅱ |
+|The Croods Ⅰ&Ⅱ |
+|Wreck-it Ralph |
+|Ice Age Ⅳ |
+
