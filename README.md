@@ -20,6 +20,10 @@ Practical Working Situation
 ## Listening
 - 雅思听力  https://www.bilibili.com/video/BV1KJ411r7Tn
 
+## Speechings
+- TED
+- Vlog
+
 ## Magazines
 - [Introduction](Magazine)
 
