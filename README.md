@@ -40,10 +40,10 @@ Practical Working Situation
   - https://www.bilibili.com/video/BV15i4y137d3
 
 ## Movies
-- Cartoon
+- Animated Films
 
 | Title | Link |
-| :---:| :---: |
+| :---| :--- |
 | Lion King Ⅰ | Vocab & Script |
 |Lion King Ⅲ | Vocab & Script |
 | Rio Ⅰ&Ⅱ|
