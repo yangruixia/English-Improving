@@ -39,4 +39,6 @@ Practical Working Situation
 
 | Title | Link |
 | :---:| :---: |
-| Lion  | None |
+| Lion King Ⅰ | Vocab & Script |
+|Lion King Ⅲ | Vocab & Script |
+| 
