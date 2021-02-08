@@ -8,9 +8,10 @@ International English Language Testing System
 Practical Working Situation
 
 ## Grammar
-- 《英语语法新思维》张满胜
+- 《英语语法新思维》张满胜 
 
 ## Vocabulary
+- 专八词汇
 
 ## Reading
 - Tu es magique 经济学人精读课 https://www.bilibili.com/video/BV1oy4y117kT
