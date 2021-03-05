@@ -8,7 +8,7 @@ International English Language Testing System
 Practical Working Situation
 
 ## Grammar
-- 《英语语法新思维》张满胜 
+- 《英语语法新思维》张满胜
 
 ## Vocabulary
 - 专八词汇
@@ -49,8 +49,6 @@ Practical Working Situation
 |Lion King Ⅲ | Vocab & Script |
 | Rio Ⅰ&Ⅱ|
 | Hotel Transylvania Ⅰ&Ⅱ |
-|The Croods Ⅰ&Ⅱ |
-|Wreck-it Ralph |
-|Ice Age Ⅳ |
-
-yangruixia
+|The Croods Ⅰ&Ⅱ | Vocab |
+|Wreck-it Ralph | Vocab |
+|Ice Age Ⅳ | Vocab |
